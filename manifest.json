@@ -1,0 +1,27 @@
+{
+  "manifest_version": "1.0",
+  "org": "networkx",
+  "repo": "nx-benchmarks",
+  "versions": [
+    {
+      "commit": "25dccf000484758ce070d13def9a3341843f0a1f",
+      "parsed_at": "2026-10-21T20:59:46.669941+00:00",
+      "filetree": "filetree/25dccf000484758ce070d13def9a3341843f0a1f.nq.gz",
+      "blobs": [
+        "blob/29ee529e894a4bdb97b01ccf598f5f4195bf43ca.nq.gz",
+        "blob/d9682d4eb56f707b5a90f06efec15080236d4517.nq.gz",
+        "blob/68bc17f9ff2104a9d7b6777058bb4c343ca72609.nq.gz",
+        "blob/32e34050cafb1356d89d8c8280912aab0b4027d4.nq.gz",
+        "blob/4e75046943be1890052c28d64880f2d860b4a08c.nq.gz",
+        "blob/443a66829b6ee988a2990f8609e256d731dec3fe.nq.gz",
+        "blob/1d4c4afbeef6dd9dd33426c3851305b522682f21.nq.gz",
+        "blob/3b5feb23110adf02dcff9d28dda77d9193c06214.nq.gz",
+        "blob/8b137891791fe96927ad78e64b0aad7bded08bdc.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz"
+}
