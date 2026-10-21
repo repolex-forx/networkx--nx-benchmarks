@@ -1,0 +1,11 @@
+{
+  "org": "networkx",
+  "repo": "nx-benchmarks",
+  "versions": [
+    {
+      "commit": "25dccf000484758ce070d13def9a3341843f0a1f",
+      "tag": "",
+      "parsed_at": "2026-10-21T21:02:02.830725+00:00"
+    }
+  ]
+}
